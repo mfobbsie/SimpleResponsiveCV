@@ -91,11 +91,16 @@ Screenshots
 
 Full Page View
 
-![Full Page View](images/wholepage.png)
+![Full Page View]<img width="1426" height="919" alt="WholePage" src="https://github.com/user-attachments/assets/886aa79c-410f-41c1-bf42-f9b58c575834" />
+(images/wholepage.png)
 
-Skills or Experience Section
+Skills & Experience Sections
 
-![Skill section](images/skills.png)
+![Skill section]
+<img width="295" height="151" alt="Skills" src="https://github.com/user-attachments/assets/77a098fb-ea88-4535-aa26-95bc17a4ec8e" />
+
+![Experience section] <img width="669" height="319" alt="Experience" src="https://github.com/user-attachments/assets/2f1bfd9f-a11a-45a3-8d65-dfe4882c9952" />
+
 
 ```
 
