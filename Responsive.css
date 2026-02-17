@@ -1,0 +1,42 @@
+<!--Base Styles-- > body {
+  margin: 0;
+  padding: 0;
+}
+
+.container::after {
+  content: "Default View";
+  display: block;
+  text-align: center;
+  padding: 50px 0;
+  color: black;
+}
+/*Mobile View*/
+@media only screen and (max-width: 599px) {
+  .container::after {
+    content: "Mobile View";
+    display: block;
+    text-align: center;
+    padding: 50px 0;
+    color: black;
+  }
+}
+/*Tablet View*/
+@media (min-width: 601px) and (max-width: 1024px) {
+  .container::after {
+    content: "Tablet View";
+    display: block;
+    text-align: center;
+    padding: 50px 0;
+    color: black;
+  }
+}
+/*Desktop View*/
+@media (min-width: 1025px) {
+  .container::after {
+    content: "Desktop View";
+    display: block;
+    text-align: center;
+    padding: 50px 0;
+    color: black;
+  }
+}
