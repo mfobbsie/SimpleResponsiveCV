@@ -88,28 +88,17 @@ SimpleResponsiveCV/
 │── README.md
 └── (additional assets as needed)
 Screenshots
-Screenshots
 
 Full Page View
 
-![Full Page View](images/full-page-view.png)
+![Full Page View](images/wholepage.png)
 
 Skills or Experience Section
 
-![Skills Section](images/skills-section.png)
+![Skill section](images/skills.png)
 
-How to add images to this README
-
-1. Put your image file(s) inside the `images/` folder (for example `images/full-page-view.png`).
-2. Reference them in this README using relative paths, for example:
-
-```markdown
-![Alt text](images/your-image-file.png)
 ```
 
-Notes:
-- Use descriptive alt text for accessibility.
-- Commit the image files along with the README so the images render on GitHub.
 Collaborators
 This project was completed as part of the Coding Temple bootcamp curriculum.
 
@@ -121,3 +110,4 @@ Improve color palette and typography to better reflect personal style
 Add animations or transitions for a more polished user experience
 
 Enhance responsiveness for additional screen sizes
+```
